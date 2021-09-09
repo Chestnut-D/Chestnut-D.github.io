@@ -1249,7 +1249,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #0e419d;
+  background: #4694ff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2761,25 +2761,15 @@ body {
   color: var(--text-color);
   font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 1em;
-  line-height: 2;
-}
-.header-inner {
-  opacity: 0.9;
 }
 .sidebar {
   transition-duration: 0.4s;
-  opacity: 0.9;
-}
-.content {
-  opacity: 0.9;
 }
 .header-inner {
   border-radius: 20px 20px 20px 20px;
-  opacity: 0.9;
 }
 .sidebar {
   transition-duration: 0.4s;
-  opacity: 0.9;
   border-radius: 10px 10px 10px 10px;
 }
 .sidebar-inner {
@@ -2789,7 +2779,6 @@ body {
   box-sizing: border-box;
   color: var(--text-color);
   width: 240px;
-  opacity: 0;
 }
 .post-block {
   background: var(--content-bg-color);
