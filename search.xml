@@ -43,7 +43,7 @@
 <h2 id="系统设置查看Win10-WiFi密码"><a href="#系统设置查看Win10-WiFi密码" class="headerlink" title="系统设置查看Win10 WiFi密码"></a>系统设置查看Win10 WiFi密码</h2><p>​    首先，开启Win10的系统设置，在“网络和Internet”中的“状态”，找到“更改适配器选项”一栏。<br>接着，右键点击当前的网络连接，选择“状态”。<br>​    在弹出来的“WLAN状态”当中，点击“无线属性”。<br>​    最后，切换到“安全”的选项卡，勾选“显示字符”，就可以查看当前所连接的WiFi的密码了。<br>​    这个方法虽然也略繁琐，但是总比命令行好记一些。这方法的局限就在于，只能查看当前所连接的WiFi的密码，不能查看其它已经连接过的WiFi密码，但总体来说还算实用。</p>
 ]]></content>
       <categories>
-        <category>windows</category>
+        <category>windows日常使用</category>
       </categories>
       <tags>
         <tag>windows</tag>
